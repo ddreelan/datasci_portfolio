@@ -2,7 +2,7 @@
 
 Welcome to my data science portfolio. This site showcases a selection of projects, case studies, and technical skills that reflect my academic background, engineering expertise, and practical experience in mining and mechanical systems. I created this portfolio to demonstrate my analytical capabilities, passion for data, and problem-solving approach through real-world datasets and challenges.
 
-> **🔗 Visit the live site**: [dannydreelan.github.io](https://dannydreelan.github.io) *(replace with your actual GitHub Pages URL)*
+> **🔗 Visit the live site**: [ddreelan.github.io](https://ddreelan.github.io) *(replace with your actual GitHub Pages URL)*
 
 ---
 
