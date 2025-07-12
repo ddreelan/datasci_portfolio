@@ -1,5 +1,4 @@
 # add the following to _config.yml file
 title: Danny Dreelan
-theme: jekyll-theme-minimal
-
-# Data Scientist / Full Time Mad Bastard
+description: Projects in Data Science and Engineering
+theme: jekyll-theme-cayman
