@@ -12,7 +12,7 @@ I hold a PhD, master's, and bachelor's in Mechanical Engineering and have hands-
 
 Key strengths:
 - Deep technical knowledge in engineering systems
-- Strong programming skills (Python, SQL)
+- Strong programming skills (Python, SQL, C++)
 - Experience with data wrangling, visualization, and machine learning
 - Passion for continuous learning and open collaboration
 
